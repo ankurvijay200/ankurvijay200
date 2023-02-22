@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e474xxvj0y9pl8b5xnrvihuul3q5xh7etqg7zw9f36g&rid=giphy.gif&ct=g)](https://ankurvijay200.io)
+<!-- [![MasterHead](https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e474xxvj0y9pl8b5xnrvihuul3q5xh7etqg7zw9f36g&rid=giphy.gif&ct=g)](https://ankurvijay200.io) -->
 <h1 align="center">Hi 👋, I'm Ankur Vijayvargiya</h1>
 <h3 align="center">A passionate Full-stack .NET developer from India</h3>
 <img align="right" alt="Coding" width="25%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
