@@ -1,7 +1,7 @@
-[![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)](https://ankurvijay200.io)
+<!-- [![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)](https://ankurvijay200.io) -->
 <h1 align="center">Hi 👋, I'm Ankur Vijayvargiya</h1>
 <h3 align="center">A passionate Full-stack .NET developer from India</h3>
-<img align="right" alt="Coding" width="30%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="25%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankurvijay200" alt="ankurvijay200" /></a> </p>
 
