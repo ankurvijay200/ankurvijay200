@@ -30,6 +30,7 @@
 <a href="https://fb.com/ankurvijay200" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2014%2F09%2Ffacebook-logo-0.png&f=1&nofb=1&ipt=8e072eb9d422bd3f0a7debf66a72c692eab019b4752a0c273745a8dd1e3e1497&ipo=images" alt="ankurvijay200" height="30" width="40" /></a>
 <a href="https://instagram.com/ankurvijay2000" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkit.com%2Fpng%2Ffull%2F1-13187_instagram-logo-new-vector-eps-free-download-logo.png&f=1&nofb=1&ipt=3b7372509ce42fcb81f7bbfba029b9c1d35d9694cf2aa66f87a5309534da49e9&ipo=images" alt="ankurvijay2000" height="30" width="40" /></a>
 <a href="https://twitter.com/ankurvijay11" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Ftwitter-icons-png-1.png&f=1&nofb=1&ipt=cba7cd320c441ff845c7fab9b391177bd2da9282f54ae4db00ffcf630b41726a&ipo=images" alt="ankurvijay11" height="30" width="40" /></a>
+<a href="https://www.snapchat.com/add/ankurvijay2000?share_id=8U0jbxmHlME&locale=en-US" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F08%2Fsnapchat-logo-transparent.png&f=1&nofb=1&ipt=207b782f4c131b9022cf6ac51b703cf72ef1fb03c2ec958035fa908e1bb119da&ipo=images" alt="ankurvijay11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
