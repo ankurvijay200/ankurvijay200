@@ -17,8 +17,6 @@
 
 - ⚡ Fun fact **Coding will soon be as important as reading.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankurvijay200" alt="ankurvijay200" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codingninjas.com/codestudio/profile/ankurvijay2000" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevscript.org%2Fassets%2Fimg%2Fsponsors%2FcodingNinja.png&f=1&nofb=1&ipt=73861542c7a5565450de5237f7b86a5a153ede5976ea048f9ae84dc5f754248f&ipo=images" alt="ankurvijay2000" height="30" width="40" /></a>
@@ -53,3 +51,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurvijay200&show_icons=true&locale=en" alt="ankurvijay200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurvijay200&" alt="ankurvijay200" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankurvijay200" alt="ankurvijay200" /></a> </p>
