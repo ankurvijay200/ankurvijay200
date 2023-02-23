@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **E-commerce applications on .NET Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ankurvijay200](https://github.com/ankurvijay200)
+- 👨‍💻 All of my projects are available at [https://github.com/ankurvijay200?tab=repositories](https://github.com/ankurvijay200?tab=repositories)
 
 - 💬 Ask me about **.Net, C# & SQL**
 
