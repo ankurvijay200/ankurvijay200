@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankurvijay200?tab=repositories](https://github.com/ankurvijay200?tab=repositories)
 
-- 💬 Ask me about **.Net, C# & SQL**
+- 💬 Ask me about **Asp.Net, C# & SQL**
 
 - 📫 How to reach me **ankurvijay200@gmail.com**
 
