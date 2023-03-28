@@ -48,7 +48,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurvijay200&" alt="ankurvijay200" /></p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankurvijay200" alt="ankurvijay200" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankurvijay200" alt="ankurvijay200" /></a> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurvijay200&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
